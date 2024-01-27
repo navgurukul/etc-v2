@@ -47,6 +47,7 @@ dependencies:
   firebase_core: ^2.24.0
   shared_preferences: ^2.2.2
   provider: ^6.1.1
+  flutter_web3: ^2.1.9
 
 
 dev_dependencies:
